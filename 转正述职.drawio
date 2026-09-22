@@ -8,7 +8,7 @@
           <mxGeometry height="515.35" width="660" x="90" y="2550" as="geometry" />
         </mxCell>
         <mxCell id="aVbQl_Rxm0BePJCukFQf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="岗位描述" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="1530" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="aVbQl_Rxm0BePJCukFQf-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="遇到的问题和解决方案" vertex="1">
           <mxGeometry height="60" width="120" x="590" y="1760" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry height="60" width="120" x="414" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="YccLwPs8T9fhygIK51D9-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="我的不足" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="2025" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="2020" as="geometry" />
         </mxCell>
         <mxCell id="YccLwPs8T9fhygIK51D9-21" edge="1" parent="1" source="YccLwPs8T9fhygIK51D9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YccLwPs8T9fhygIK51D9-20">
           <mxGeometry relative="1" as="geometry" />
