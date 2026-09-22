@@ -23,7 +23,10 @@
           <mxGeometry height="60" width="120" x="270" y="1700" as="geometry" />
         </mxCell>
         <mxCell id="YccLwPs8T9fhygIK51D9-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="100" width="50" x="130" y="1545" as="geometry" />
+          <mxGeometry height="290" width="90" x="160" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="YccLwPs8T9fhygIK51D9-8" parent="1" style="whiteSpace=wrap;html=1;" value="近期工作" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1585" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
