@@ -8,7 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xwureAFG8FQ42-WkyXE2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="玩家操作" vertex="1">
-          <mxGeometry height="60" width="120" x="260" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="180" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-14" edge="1" parent="1" source="M-Ipux6EX3gsjWZzD0ld-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M-Ipux6EX3gsjWZzD0ld-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-Ipux6EX3gsjWZzD0ld-1" parent="1" style="whiteSpace=wrap;html=1;" value="意图" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="270" as="geometry" />
@@ -17,13 +20,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-Ipux6EX3gsjWZzD0ld-2" parent="1" style="whiteSpace=wrap;html=1;" value="AI" vertex="1">
-          <mxGeometry height="60" width="120" x="470" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="120" as="geometry" />
         </mxCell>
         <mxCell id="M-Ipux6EX3gsjWZzD0ld-8" edge="1" parent="1" source="M-Ipux6EX3gsjWZzD0ld-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M-Ipux6EX3gsjWZzD0ld-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-Ipux6EX3gsjWZzD0ld-7" parent="1" style="whiteSpace=wrap;html=1;" value="服务器" vertex="1">
-          <mxGeometry height="60" width="120" x="630" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-15" edge="1" parent="1" source="M-Ipux6EX3gsjWZzD0ld-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="M-Ipux6EX3gsjWZzD0ld-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-9" parent="1" style="whiteSpace=wrap;html=1;" value="状态机" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-16" edge="1" parent="1" source="M-Ipux6EX3gsjWZzD0ld-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M-Ipux6EX3gsjWZzD0ld-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-17" edge="1" parent="1" source="M-Ipux6EX3gsjWZzD0ld-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M-Ipux6EX3gsjWZzD0ld-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-18" edge="1" parent="1" source="M-Ipux6EX3gsjWZzD0ld-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M-Ipux6EX3gsjWZzD0ld-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-10" parent="1" style="whiteSpace=wrap;html=1;" value="某状态" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-11" parent="1" style="whiteSpace=wrap;html=1;" value="物理计算" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-12" parent="1" style="whiteSpace=wrap;html=1;" value="动画" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="M-Ipux6EX3gsjWZzD0ld-13" parent="1" style="whiteSpace=wrap;html=1;" value="音效" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
